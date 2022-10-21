@@ -12,6 +12,7 @@ namespace CalculoEmArroba
             int valorConvertido = valor / 30;
 
             Console.WriteLine("O valor convertido em arroba é:" + valorConvertido);
+            Console.WriteLine("O valor convertido em arroba é:" + valorConvertido);
         }
     }
 }
